@@ -51,14 +51,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=evntd-jake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=evntd-jake&theme=tokyonight&hide_border=true" />
+<img src="./github-metrics/stats.svg" alt="GitHub Stats" />
+<img src="./github-metrics/languages.svg" alt="Languages" />
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evntd-jake&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="./github-metrics/habits.svg" alt="Coding Habits" />
 
 </div>
 
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-`🏔️ Arctic Code Vault Contributor` · `🦈 Pull Shark x3` · `👯 Pair Extraordinaire` · `🌟 Starstruck` · `⚡ Quickdraw` · `🤠 YOLO`
+<img src="./github-metrics/achievements.svg" alt="Achievements" />
 
 </div>
 
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=evntd-jake&theme=tokyo-night&hide_border=true&area=true)](https://github.com/evntd-jake)
+<img src="./github-metrics/calendar.svg" alt="Contribution Calendar" />
 
 </div>
 
