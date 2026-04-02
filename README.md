@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Jake%20Bruun&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Founder%20%26%20CEO%20of%20Evntd%20%7C%20Event%20Sourcing%20Architect&descSize=18&descAlignY=75&descColor=ffffff" width="100%" />
+<img src="./assets/header.svg" width="100%" alt="Jake Bruun - Founder & CEO of Evntd | Event Sourcing Architect" />
 
 <div align="center">
 
@@ -103,4 +103,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
+<img src="./assets/footer.svg" width="100%" alt="" />

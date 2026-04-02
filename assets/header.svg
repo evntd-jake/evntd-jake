@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#6C63FF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4834d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#grad)" />
+  <text x="600" y="85" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff">Jake Bruun</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#ffffffcc">Founder &amp; CEO of Evntd  |  Event Sourcing Architect</text>
+  <path d="M0 170 Q300 200 600 180 Q900 160 1200 190 L1200 200 L0 200 Z" fill="#ffffff" opacity="0.15"/>
+  <path d="M0 180 Q300 210 600 190 Q900 170 1200 200 L1200 200 L0 200 Z" fill="#ffffff" opacity="0.1"/>
+</svg>
