@@ -42,6 +42,11 @@
 ![Event Sourcing](https://img.shields.io/badge/Event_Sourcing-FF6F00?style=for-the-badge&logoColor=white)
 ![Event Modeling](https://img.shields.io/badge/Event_Modeling-1A1A2E?style=for-the-badge&logoColor=white)
 ![KurrentDB](https://img.shields.io/badge/KurrentDB-002E5D?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
@@ -56,12 +61,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="./github-metrics/habits.svg" alt="Coding Habits" />
-
-</div>
-
 ---
 
 ## Featured Projects
@@ -72,16 +71,6 @@
 |---------|-------------|------|
 | [**Fact**](https://github.com/evntd/Fact) | File-system-based event sourcing database engine | ![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white) ![Stars](https://img.shields.io/github/stars/evntd/Fact?style=flat-square&color=yellow) |
 | [**BoardGamer.BoardGameGeek**](https://github.com/cobster/BoardGamer.BoardGameGeek) | .NET client library for BGG XML API2 | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Stars](https://img.shields.io/github/stars/cobster/BoardGamer.BoardGameGeek?style=flat-square&color=yellow) |
-
-</div>
-
----
-
-## Achievements
-
-<div align="center">
-
-<img src="./github-metrics/achievements.svg" alt="Achievements" />
 
 </div>
 
