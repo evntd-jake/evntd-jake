@@ -1,8 +1,8 @@
-<img src="./assets/header.svg" width="100%" alt="Jake Bruun - Founder & CEO of Evntd | Event Sourcing Architect" />
+<img src="./assets/header.svg" width="100%" alt="Jake Bruun - Founder & CEO of Evntd | Software Systems Architect | Event Modeling & Event Sourcing" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Jake+Bruun+%7C+Founder+%26+CEO+of+Evntd;Event+Sourcing+Architect+%7C+.NET+%7C+Elixir;Building+the+future+of+event-driven+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=50&lines=Jake+Bruun+%7C+Founder+%26+CEO+of+Evntd;Software+Systems+Architect;Event+Modeling+%7C+Event+Sourcing;Building+the+future+of+event-driven+systems" alt="Typing SVG" />
 
 </div>
 
